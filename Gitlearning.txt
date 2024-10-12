@@ -1,0 +1,19 @@
+
+
+Basic Git Commands for Remote Repositories:
+Add a Remote: To link a remote repository to your local project.
+
+bash
+Copy code
+git remote add origin https://github.com/username/repository.git
+View Remote Repositories: Shows the remote repositories linked to your local repo.
+
+bash
+Copy code
+git remote -v
+Push to Remote: Pushes your local commits to the remote repository.
+
+bash
+Copy code
+git push origin main
+Pull from Remote: Fetches the latest changes from the remote repository and merges them into your current branch.
