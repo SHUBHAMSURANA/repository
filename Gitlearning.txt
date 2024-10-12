@@ -6,12 +6,13 @@ Add a Remote: To link a remote repository to your local project.
 bash
 Copy code
 git remote add origin https://github.com/username/repository.git
-View Remote Repositories: Shows the remote repositories linked to your local repo.
+View Remote Repositories: Shows jhhjhjkhk kjkjkl the remote repositories linked to your local repo.
 
 bash
 Copy code
 git remote -v
-Push to Remote: Pushes your local commits to the remote repository.
+ghjgjhk nkhkjkjl
+Push to Remote: Pushes your hjhhk jkljlj local commits to the remote repository.
 
 bash
 Copy code
